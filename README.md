@@ -1,4 +1,4 @@
-# Lily🗡️.lua is a univerisal script to be used anywhere, which combating features and the usual features you would find in other admins!
+# Lily🗡️.lua is a univerisal script to be used anywhere, with combating features and the usual features you would find in other admins!
 # Over 70+ Commands!! and more to come!
 
 [Not finished]
